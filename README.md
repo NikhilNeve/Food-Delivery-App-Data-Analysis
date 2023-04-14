@@ -1,6 +1,5 @@
 # Food-Delivery-App-Data-Analysis Project
-This repository contains the code and documentation for a one-week project completed as part of the HiCounselor real-world project program.
-
+This repository contains the code and documentation for a one-week project completed as part of the HiCounselor real-world project program. (1st April 23 to 7th April 2023)
 ## Table of Contents
 * Introduction
 * Tools Used
